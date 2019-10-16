@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FHL-Leer-Test-001", "FHL-Leer-Test-001\FHL-Leer-Test-001.csproj", "{07887FDB-3C2A-44C4-B260-CB2BD0D3A557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07887FDB-3C2A-44C4-B260-CB2BD0D3A557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07887FDB-3C2A-44C4-B260-CB2BD0D3A557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07887FDB-3C2A-44C4-B260-CB2BD0D3A557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07887FDB-3C2A-44C4-B260-CB2BD0D3A557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {348E6DC4-6B8B-442E-ACAB-3419BB88B658}
+	EndGlobalSection
+EndGlobal
